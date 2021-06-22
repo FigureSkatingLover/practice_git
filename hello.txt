@@ -1,5 +1,1 @@
 Hello, world! My name is FigureSkatingLover.
-
-new string
-
-new string 3
